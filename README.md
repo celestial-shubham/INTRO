@@ -23,10 +23,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=celestial-shubham&limit=5&theme=dark&combine_all_yearly_contributions=false)
+![](https://github-contributor-stats.vercel.app/api?username=celestial-shubham&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-
-<img height="120" alt="Thanks for visiting ,connect with me @shubhamverma291799@gmail.com" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
